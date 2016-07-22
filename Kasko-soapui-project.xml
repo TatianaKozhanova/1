@@ -16,6 +16,7 @@
               </wsp:Policy>
             </sp:AlgorithmSuite>
             <sp:Layout>
+            
               <wsp:Policy>
                 <sp:Strict/>
               </wsp:Policy>
